@@ -1,0 +1,9 @@
+/* Write your CSS here */
+
+.tracker-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+  padding: 30px;
+}
